@@ -13,7 +13,10 @@
       "at": "2026-11-11T11:27:01.919Z"
     },
     "LTS-2NXE-AG5J": {
-      "used": false
+      "used": true,
+      "id": 10190345715,
+      "type": "users",
+      "at": "2026-11-11T13:08:23.151Z"
     },
     "LTS-2V5C-DL2F": {
       "used": false
