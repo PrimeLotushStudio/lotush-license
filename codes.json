@@ -7,7 +7,10 @@
       "at": "2026-11-11T11:24:35.722Z"
     },
     "LTS-4GJE-TEPQ": {
-      "used": false
+      "used": true,
+      "id": 4301640122,
+      "type": "users",
+      "at": "2026-11-11T11:27:01.919Z"
     },
     "LTS-2NXE-AG5J": {
       "used": false
