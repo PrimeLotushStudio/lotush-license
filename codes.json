@@ -1,7 +1,10 @@
 {
   "codes": {
     "LTS-HTPF-NJAP": {
-      "used": false
+      "used": true,
+      "id": 9614812104,
+      "type": "users",
+      "at": "2026-11-11T11:24:35.722Z"
     },
     "LTS-4GJE-TEPQ": {
       "used": false
