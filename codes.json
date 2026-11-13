@@ -19,7 +19,10 @@
       "at": "2026-11-11T13:08:23.151Z"
     },
     "LTS-2V5C-DL2F": {
-      "used": false
+      "used": true,
+      "id": 457910767,
+      "type": "groups",
+      "at": "2026-11-13T10:59:02.439Z"
     },
     "LTS-SNT9-K9PW": {
       "used": false
