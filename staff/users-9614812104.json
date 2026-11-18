@@ -1,0 +1,35 @@
+{
+  "list": [
+    {
+      "id": 10964139616,
+      "name": "aymenk_06",
+      "role": "ADMIN",
+      "by": "ItsMeeDewaa",
+      "at": 1794456179
+    },
+    {
+      "id": 9993033623,
+      "name": "hadayah7",
+      "role": "ADMIN",
+      "by": "ItsMeeDewaa",
+      "at": 1795000290
+    },
+    {
+      "id": 10190345715,
+      "name": "ItsMeeZayn17",
+      "role": "ADMIN",
+      "by": "ItsMeeDewaa",
+      "at": 1793517322
+    },
+    {
+      "id": 4301640122,
+      "name": "Qliphoth666",
+      "role": "ADMIN",
+      "by": "ItsMeeDewaa",
+      "at": 1795012153
+    }
+  ],
+  "sig": "3421b4411c513a80288be5d86bcf0a380ebf33191f48cb26456ec6a723893343",
+  "syncedAt": "2026-11-18T21:43:49.142Z",
+  "placeId": 132608708280772
+}
